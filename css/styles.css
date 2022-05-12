@@ -126,13 +126,13 @@ body {
 
 .form input:focus +.dependants-name .content-dependants, .form select:focus +.dependants-name .content-dependants{
   transform: translateY(-80%);
-  font-size:14px;
+  font-size:16px;
   color: #7f977f;
 
 }
 .form input:valid +.dependants-name .content-dependants{
   transform: translateY(-80%);
-  font-size:14px;
+  font-size:20px;
   color:#7f977f;
 }
 
